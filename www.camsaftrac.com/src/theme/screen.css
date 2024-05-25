@@ -1,0 +1,400 @@
+/* Copyrights Mai 213, MAGHEN NEGOU Rostant, Tout droit réservé
+MAGHEN NEGOU Rostant
+Communicateur Informaticien
+Tél:(+237) 77 92 06 85 - 94 27 12 80 - 77 55 57 43 - 77 28 28 51
+BP: Douala Cameroun
+Email : maghen2@gmail.com
+*/
+/*Positionement du site avec une resolution de 1024x768*/	
+html,body{
+  width: 100%;
+	color: #003;
+  margin: 0;
+  padding: 0;
+  background: transparent url(bg_html.png) repeat;
+}
+div#page{
+  width: 1000px;
+  min-height: 753px;
+  margin: 0 auto;
+  padding: 0;
+  background: transparent url(logo_camsaftrac_cameroon_sales_force_and_trading_company_big.gif) fixed center top no-repeat;
+}
+/* Mise en page generale */
+h1 {
+	font-size: 2em;
+  font-weight: bold;
+	text-align: center;
+	color: blue;
+	border-bottom: 2px solid blue;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 1px rgb(70,130,180);
+}
+h2 {
+	padding-left: 15px;
+  padding-bottom: 5px;
+	margin-left: 15px;
+	line-height: 1em;
+	font-size: 1.8em;
+  font-weight: bold;
+  font-variant: small-caps;
+	color: rgb(0,191,255);
+	border-bottom: 2px solid rgb(0,191,255);
+	border-left: 2px solid rgb(0,191,255);
+  text-transform: uppercase;
+  text-shadow: 1px 1px 1px rgb(70,130,180);  
+}
+h3 {
+	margin-left: 25px;
+	padding-left: 25px;
+	font-size: 1.6em;
+  line-height: 26px;
+	border-bottom: 1px solid #808080;
+	color: #6C3D2F;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 1px #808080;  
+}
+h4 {
+	margin-left: 35px;
+	padding-left: 25px;
+	font-size: 1.4em;
+  line-height: 26px;
+	border-bottom: 1px solid lime;
+	color: lime;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 1px green; 
+}
+h5{
+	margin-left: 45px;
+	font-size: 1.3em;
+	border-bottom: 1px solid #e4c680;
+	border-left: 3px solid #e4c680;
+	color: #e4c680;
+  font-variant: small-caps; 
+}
+h6{
+  margin-left: 55px;
+	font-size: 1em;
+	border-bottom: 1px solid #e4c680;
+	border-left: 2px solid #e4c680;
+	color: #e4c680;
+  font-variant: small-caps;   
+}
+p,address,blockquote,dl,hr,pre,ul,ol {
+	text-align: justify;
+	text-indent: 2em;
+  margin: 0 auto 1em ;
+}
+/*
+Formatage des informations d'adresse de la page de contact
+*/
+address.contact {
+ padding: 10px; 
+ text-indent: 50px;
+}
+address.bp {
+ background: url(boite_postale.jpg) left top no-repeat;
+}
+address.tel {
+ background: url(telephone.jpg) left top no-repeat;
+}
+address.fax {
+ background: url(fax.jpg) left top no-repeat;
+}
+address.skype {
+ background: url(skype.jpg) left top no-repeat;
+}
+address.email {
+ background: url(email.jpg) left top no-repeat;
+}
+address.web {
+ background: url(w3c.jpg) left top no-repeat;
+}
+/*
+Foramage des listes importantes de la page des apropos
+*/
+ul,ol {
+	text-align: left;
+	text-indent: 0;
+  margin-left: 3em ;
+}
+ul.cle {
+  display: block;
+  min-height: 250px;
+  line-height: 1.5em;
+  font-style: italic;
+  list-style: disc outside url(starover.png);
+}
+ul{
+list-style: disc outside url(bloc_note.png);
+}
+ol{
+list-style: decimal outside;
+}
+form, legend, input, fieldset{
+ color: blue;
+ text-shadow: 1px 1px 1px rgb(70,130,180)
+}
+fieldset, input, textarea, option{
+ display: block;
+ color: blue;
+ background-color: rgb(30,144,255);
+ text-align: left;
+ margin: 5px auto;
+ padding: 2px ;
+ font:  normal bold 1em 'Arial Black', 'Arial Bold', Arial, Gadget, sans-serif;
+ text-shadow: 1px 1px 1px silver;
+ border: 1px solid rgb(30,144,255);
+ border-radius: 5px;
+ box-shadow: inset 1px 1px 5px silver, 1px 1px 15px silver;
+}
+
+fieldset:hover, input:hover, textarea:hover, option:hover, fieldset:focus, input:focus, textarea:focus, option:focus {
+  color: white;
+  background-color: blue;
+  border: 1px solid #000080;
+  box-shadow: inset 1px 1px 5px azure, 1px 1px 15px azure;
+  text-shadow: 1px 1px 1px #000080;
+}
+label, input[type="button"], input[type="reset"], input[type="submit"] {
+	cursor: pointer;
+}
+input[type="reset"], input[type="submit"] {
+	width: 250px;
+  height: 50px;
+  text-align: center;
+  vertical-align: middle;
+  float: right;
+  margin: 5px 15px 0 50px; 
+}     
+tr{
+background-color: #000080;
+}
+td{
+background-color: #00BFFF;
+}
+
+/* Mise en page des element de contenu generaux importants */
+.important{
+  width: 95%;
+  padding: 5px 0;
+  margin: 2px auto;
+  font-size:1.2em;
+  font-weight:bold;
+  text-align: justify;
+}
+.echec{
+  color: #660000; 
+  border: 1px solid #660000;
+  border-radius: 5px;
+  text-shadow: 1px 1px 1px #CC0000;
+  background-color: red;
+  box-shadow: inset 1px 1px 5px #FFCCCC, 1px 1px 15px #993333;
+}             
+.succes{
+  color: green; 
+  border: 1px solid green;
+  border-radius: 5px;
+  text-shadow: 1px 1px 1px #00CC00;
+  background-color: lime;
+ box-shadow: inset 1px 1px 5px #CCFFCC, 1px 1px 15px #339933; 
+}
+   
+/* Fin de la mise en page generale
+Mise en page de l'entente */
+div#header{;
+ width: 100%;
+ padding: 0;
+ margin: 0 auto;
+ padding-bottom: 10px;
+ background:transparent;
+ }
+div#header h1{
+ display: block;
+ height: 65px;
+ width: 600px;
+ font-size: 0;
+ color: transparent;
+ text-indent: -9999999px;
+ margin: 0 auto;
+ padding: 0;
+ margin-right: 130px;
+ padding-top: 90px;
+ background: url(slide1.gif) right bottom no-repeat; /*600 x 65 = 200x65x3*/
+ border: none;
+}
+div#header img{
+ border:  none;
+ margin: 0;
+ padding: 0;
+ }
+div#header h2{
+display: none;
+}
+div#header address,a{
+ color: #808080;
+ text-indent: 2px;
+ font-size: 1.2em;
+ line-height: 110%;
+ text-decoration: none;
+ text-align: justify;
+ margin:0;
+ font-weight: bold;
+}
+div#header address{
+text-shadow: 1px 1px 1px #C0C0C0;
+}
+div#header a{
+color: white;
+text-shadow: 1px 1px 1px blue;
+}
+div#header h2{
+ display: none;
+}
+
+/* Mise en page des menus horizontaux et verticaux */
+div#menu{
+ height: 35px;
+ padding: 0 0 3px 4px;
+ margin: 0 auto;
+ margin-top: -5px;
+}
+div#menu menu.menu li{
+ height: 100%;
+ width: 13%;
+ float: left; 
+ margin: 0 0 0 5px;
+ padding: 0;
+}
+div#content menu.menu li{
+ height: 100%;
+ width: 32%;
+ float: left; 
+ margin: 0 0 30px 7px;
+ padding: 0;
+ list-style: circle inside url(starover.png); 
+}
+menu.menu{
+ height: 100%;
+ width: 100%;
+ list-style: none;
+ margin: 0;
+ padding: 0;
+}
+menu.menu li a{
+  display: block;
+  height: 100%;
+  width: 100%;
+  font-size: 1.2em;
+  line-height: 35px;
+  vertical-align: bottom;
+  text-align: center;
+  font-weight: bold;  
+  color: #808080;
+  text-shadow: 1px 1px 1px darkgray; 
+  border: 1px solid #808080;
+  border-radius: 10px;
+  background:  url(bg_html.png) repeat; 
+}
+div#content menu.menu li a, menu.menu li a:hover, menu.menu li a:active{
+  color: #0000FF;
+  border-color: #00CCFF;
+  text-shadow: 1px 1px 1px #C0C0C0;
+  background:  url(bg_html2.png) repeat;  
+}
+div#content menu.menu li a{
+background:  url(bg_html1.png); 
+}
+div#content menu.menu li.repcom a{
+  color: #006600;
+  border-color: lime;
+  background-color: lime;
+  text-shadow: 1px 1px 1px rgb(173,255,47);  
+}
+div#content menu.menu li.com a{
+  color: #660000;
+  border-color: #FF6600;
+  background-color: #FF0000;
+  text-shadow: 1px 1px 1px rgb(255,99,71);  
+}
+
+div#content menu.menu li.mar a{
+  color: #996633;
+  border-color: rgb(255,215,0);
+  background-color: #FF0;
+  text-shadow: 1px 1px 1px FFFF99;  
+}
+div#content menu.menu li a:hover, div#content menu.menu li a:active{
+  color: #0000FF;
+  border-color: #00CCFF;
+  text-shadow: 1px 1px 1px #C0C0C0;
+  background: #99CCFF url(bg_html2.png) repeat; 
+}
+/*
+Formatage de l'Iframe des CGV
+*/
+iframe.cgvs{
+ width: 100%;
+ padding: 0;
+ margin: 0 auto;
+ cursor: text;
+} 
+/* Mise en page du contenu 'corps de page'*/
+div#content{
+ width: 80%;
+ min-height: 487px;
+ border: 1px solid #727272 ;
+ border-radius: 5px; 
+ padding: 3px 3px 0 3px;
+ margin: 0 auto;
+ background:white;
+}
+/*Mise en forme du pied de page*/
+div#footer{
+ clear: both; 
+ height: 100%;
+ margin: 0;
+ padding: 0;
+ text-align: center;
+ border: 1px solid #727272;
+ border-radius: 10px;
+ background: #727272 url(top.png) right center no-repeat;
+ }
+div#footer p{
+ margin: 0;
+ padding: 0;
+ color: white;
+ text-align: center;
+ text-indent: 0;;
+ font-size: 1.6em;
+ font-style: italic;
+ font-weight: bold;
+ font-family: 'Palatino Linotype', Palatino, Times, 'Times New Roman', serif;
+ text-shadow: 1px 1px 1px #727272; 
+ background: url(top.png) left center no-repeat;
+}
+/* Mise en form des liens*/
+a, a:visited {
+	color: lime;
+	font-weight: bold;
+  text-shadow: 1px 1px 1px green;
+}
+
+a:hover, a:active {
+	color: rgb(0,191,255);
+  text-shadow: 1px 1px 1px blue;
+}
+div#content, div#header, div#menu, div#footer, menu.menu li a{
+/* SAFARI TRES VIELLE VERSION < 2.1 */
+    -khtml-opacity:0.95;
+/* FIREFOX TRES VIELLE VERSION <= 0.9*/
+    -moz-opacity : 0.95;
+/* IE 95 ET COMPRIS PAR IE 10*/
+    -ms-filter: "alpha(opacity=95)";
+/* IE > 4 et < 95 ET COMPRIS PAR IE 10*/
+    filter: progid:DXImageTransform.Microsoft.Alpha(opacity=95);
+/* IE 4 */
+    filter : alpha(opacity=95);
+/* AUTRE */
+    opacity : 0.95;
+}

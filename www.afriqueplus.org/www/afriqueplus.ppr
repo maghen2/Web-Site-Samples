@@ -1,0 +1,46 @@
+[Config]
+Relative path=1
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+DefaultCPIndex=4
+LogtoEnd=1
+DontOpen=0
+FileFormat=0
+[Project tree]
+afriqueplus
+	+Répertoire
+		..\php5\PEAR\xml\squelette.xml
+		..\php5\PEAR\xml\rss.xml
+		xml\rss.php
+		test.php
+		article\index.php
+		..\php5\PEAR\conf.php
+[Open project files]
+0=test.php
+1=xml\rss.php
+2=..\php5\PEAR\xml\rss.xml
+3=..\php5\PEAR\xml\squelette.xml
+4=..\php5\PEAR\xml\index.xml
+5=..\php5\PEAR\conf.php
+[Selected Project Files]
+Main=
+Selected=xml\rss.php
+[test.php]
+TopLine=1
+Caret=21,24
+[xml\rss.php]
+TopLine=28
+Caret=29,57
+[..\php5\PEAR\xml\rss.xml]
+TopLine=1
+Caret=29,9
+[..\php5\PEAR\xml\squelette.xml]
+TopLine=20
+Caret=58,38
+[..\php5\PEAR\xml\index.xml]
+TopLine=34
+Caret=11,52
+[..\php5\PEAR\conf.php]
+TopLine=125
+Caret=16,161

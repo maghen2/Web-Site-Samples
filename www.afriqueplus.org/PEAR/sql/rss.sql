@@ -1,0 +1,65 @@
+INSERT INTO `rss`(`source`,`link`,`categorie`) VALUES
+
+(
+ 'pmb',
+ 'http://www.papamamanbebe.net/rss.xml',
+ 'Santé'
+),
+
+(
+ 'grioo',
+ 'http://www.grioo.com/syndication/general.php?out=rss',
+ 'Actualité'
+),
+(
+ 'f24',
+ 'http://www.france24.com/france24Public/rss.do?cat=9&language=fr',
+ 'Actualité'
+),
+(
+ 'bbc',
+ 'http://www.bbc.co.uk/french/index.xml',
+ 'Actualité'
+),
+(
+ 'afk',
+ 'http://www.afrik.com/affiliation/backend.php',
+ 'Actualité'
+),
+(
+ 'oao',
+ 'http://www.loccidental.net/spip.php?page=backend',
+ 'Actualité'
+),
+(
+ 'aem',
+ 'http://www.afriquechos.ch/spip.php?page=backend',
+ 'Actualité'
+),
+(
+ 'afp',
+ 'http://www.africapresse.com/rss2.php',
+ 'Actualité'
+),
+(
+ 'rfi',
+ 'http://www.rfi.fr/actufr/pages/001/accueil_afrique_foot.xml',
+ 'Sport'
+),
+(
+ 'ohada',
+ 'http://www.ohada.com/xml/fluxrss.xml',
+ 'Economie'
+),
+(
+ 'anz',
+ 'http://www.ananzie.net/spip.php?page=backend',
+ 'Actualité'
+),
+/*
+(
+ '',
+ '',
+ 'Actualité'
+),
+*/

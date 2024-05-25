@@ -1,0 +1,115 @@
+/* Page */
+html {
+	height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-size: 100%; 
+}
+body {
+	margin: 0;
+	padding: 10px 20px; /* Note -> 2 */
+	font-family: Verdana, "Bitstream Vera Sans", "Lucida Grande", sans-serif; /* 3 */
+	font-size: 1em; /* -> 4 */
+	line-height: 1.25; /* -> 5 */
+	color: #333;
+	background: white;
+}
+/* Titres */
+div#header h1{
+  background: right top no-repeat;
+}
+h1, h2, h3, h4, h5, h6 {
+	margin: 1em 0 .5em 0; /* -> 6 */
+  }
+h1, h2 {
+	font-family: Georgia, "Bitstream Vera Serif", Norasi, serif;
+	font-weight: normal; /* -> 7 */
+}
+h1 {
+	font-size: 3em; /* -> 8 */
+	font-style: italic;
+}
+h2 {font-size: 1.8em;}
+h3 {font-size: 1.2em;}
+h4 {font-size: 1em;}
+
+/* Listes */
+ul, ol {
+	margin: 0.75em 0 0.75em 24px;
+	padding: 0; /* -> 9 */
+}
+ul {
+	list-style: square;
+}
+li {
+	margin: 0;
+	padding: 0;
+}
+
+/* Paragraphes */
+p {
+	margin: .75em 0;
+}
+li p, blockquote p {
+	margin: .5em 0;
+}
+
+/* Citations */
+blockquote, q {
+	font-size: 1.1em;
+	font-style: italic;
+	font-family: Georgia, "Bitstream Vera Serif", Norasi, serif;
+}
+blockquote {
+	margin: .75em 0 .75em 24px;
+}
+cite {
+	font-style: italic;
+}
+
+/* Liens */
+a {
+	color: mediumblue;
+	text-decoration: underline;
+}
+a:hover, a:focus {
+	color: crimson;
+}
+a img {
+	border: none; /* -> 10 */
+}
+
+/* Divers éléments de type en-ligne */
+em {
+	font-style: italic;
+}
+strong, b {
+	font-weight: bold;
+  font-size: 105%;
+}
+
+/* On fait disparaitre le panneau de navigation */
+div#nav{
+display: none;
+}
+/* Formatage des img pour tous les medias
+*/
+
+img{
+ margin: 10px;
+ margin-bottom: 0;
+ padding: 0;
+ display: block;
+ float: left;
+ border: 1px solid #C0C0C0;
+ border-radius: 5px;
+}
+img.right{
+ float: right;
+ border: 1px solid rgb(0,191,255);
+ border-radius: 5px;
+}
+img.transparent{
+ border: none;
+}

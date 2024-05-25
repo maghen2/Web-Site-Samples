@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+ <title>..:: £title£ ::.. AfriquePlus &bull; L&#8217; autre visage de l&apos;Afrique </title>
+ <meta name="keywords" content="£keyword£, AfriquePlus, Afrique, Africain, maghreb, panafricain,"/>
+ <meta name="description" content="£description£"/>
+ <meta http-equiv="Content-type" content="text/html; charset=iso-8859-1"/>
+ <meta http-equiv="Content-Script-Type" content="text/javascript"/>
+ <meta http-equiv="Content-Style-Type" content="text/css"/>
+ <meta http-equiv="expires" content="now"/>
+ <meta http-equiv="pragma" content="no-cache"/>
+ <meta name="revisit-after" content="1"/>
+ <meta name="robots" content="index,follow,noarchive,all"/>
+ <meta name="DC.Date" scheme="W3CDTF" content="£date£"/>
+ <meta name="DC.Subject" content="£categorie£"/>
+ <meta name="DC.Category" content="£genre£"/>
+ <meta name="DC.Coverage" content="£organisme£"/>
+ <meta name="DC.Publisher" content="AfriquePlus"/>
+ <meta name="DC.Language" scheme="RFC3066" content="fr"/>
+ <meta name="DC.Identifier" content="AfriquePlus"/>
+ <meta name="DC.Creator" content="MAGHEN NEGOU Rostant"/>
+ <meta name="DC.Source" content="£link£"/>
+ <meta name="DC.Rights" content="L&apos;ensemble de ce portail internet est sous licence, de ce fait tout les droits sont réservés."/>
+ <link rel="author" title="Auteurs" href="£domain£about/?page=source"/>
+ <link rel="copyright" title="Conditions d&apos;utilisation" href="£domain£about/?page=copyright"/>
+ <link rel="start" title="Accueil" href="£domain£"/>
+ <link rel="help" title="Politique d&apos;accessibilité" href="£domain£about/?page=accessibilite"/>
+ <link rel="index" title="Carte" href="£domain£about/?page=sitemap"/>
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+ <link rel="stylesheet" type="text/css" href="£domain£src/theme/£theme£/screen.css" media="screen" title="Normal"/>
+ <link rel="stylesheet" type="text/css" href="£domain£src/theme/£theme£/print.css" media="print" title="Normal"/>
+ <link rel="stylesheet" type="text/css" href="£domain£src/theme/£theme£/screenf.css" media="screen" title="Libre"/>
+ <link rel="stylesheet" type="text/css" href="£domain£src/theme/£theme£/printf.css" media="print" title="Libre"/>
+ <link rel="shortcut icon" type="images/x-icon" href="£domain£favicon.ico"/>
+ <link rel="alternate" type="application/rss+xml" title="Syndiquer toute l&apos;actualité" href="£domain£xml/rss.php?categorie=general" />
+ <link rel="alternate" type="application/rss+xml" title="Syndiquer l&apos;actualité Economique" href="£domain£xml/rss.php?categorie=Economie" />
+ <link rel="alternate" type="application/rss+xml" title="Syndiquer l&apos;actualité Sanitaire" href="£domain£xml/rss.php?categorie=Santé" />
+ <link rel="alternate" type="application/rss+xml" title="Syndiquer l&apos;actualité Sportive" href="£domain£xml/rss.php?categorie=Sport" />
+ <link rel="alternate" type="application/rss+xml" title="Syndiquer l&apos;actualité Politique" href="£domain£xml/rss.php?categorie=Actualité" />
+ <script language="javascript" type="text/javascript">
+<!--
+£script£
+//--> 
+</script>
+</head>
+<body onLoad="if(document.getElementById('avancee')) document.getElementById('avancee').style.display='none';">
+<!--
+Recapitulatif des infos à extraire depuis la DB
+ - title
+ - keyword
+ - description
+ - text
+ - link
+ - date
+ - categorie
+ - genre
+ - source
+ - organisme
+ - lecture
+ - vote
+-->
+<div id="page">
+ 
+<div id="head">
+
+</div>
+
+<div id="body">
+
+</div>
+
+<div id="foot">
+
+</div>
+  
+</div>
+</body>
+</html>

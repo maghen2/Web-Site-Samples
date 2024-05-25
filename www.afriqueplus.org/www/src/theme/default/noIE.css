@@ -1,0 +1,9 @@
+/* 
+Cette feuille de style contient les elements qui ne doivent pas être interpretés pa IE
+*/
+
+    div#body
+		{
+			padding: 0 25px 0 100px ;
+			background: url(bg_page.png) no-repeat fixed 150px 0px ;
+		}

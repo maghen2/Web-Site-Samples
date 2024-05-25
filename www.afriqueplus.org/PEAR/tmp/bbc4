@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:cc="http://web.resource.org/cc/" xmlns="http://purl.org/rss/1.0/">
+   <channel rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/us/index.shtml">
+      <title>BBCAfrique.com | Informations | French News index</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/index.shtml</link>
+      <description>Copyright British Broadcasting Corporation 2007. La BBC decline toute responsabilité pour le contenu de sites extérieurs </description>
+      <dc:language>fr</dc:language>
+      <dc:date>2007-06-20T13:33:02+00:00</dc:date>
+      <dc:rights>Copyright British Broadcasting Corporation 2007 : http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/institutional/rss.shtml#copyright</dc:rights>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <sy:updatePeriod>hourly</sy:updatePeriod>
+      <sy:updateFrequency>1</sy:updateFrequency>
+      <sy:updateBase>2007-06-20T13:33:02+00:00</sy:updateBase>
+      <image rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/images/furniture/syndication/bbcfrench_180x80.gif"/>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070620_nigeriastrike.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070619_france_recel_inquiry.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070620_bush_holmert.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070619_saharalatest.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070618_cea-rwandaburundi.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070613_blaiseyamoussokro.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070613_afsud_forum.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070611_drc_bemba.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070610_sembene_death.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070608_cacaoetconflits.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070612_usasoudan_alquaeda.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070610_france_elex.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070607_saudiukarms.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/05/070514_gordonpledges.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070330_vaccin_meningite.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070307_trafficenfants_ivorycoast.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070302_morocco_birth.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/05/070501_firefox3.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070414_blind_braille.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/03/070307_supraconducteurs.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2005/10/051016_club.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2005/10/051016_star_club.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2005/10/051016_palabres.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/06/070614_zimbabwe_crisis.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/06/070614_mungikisect.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/05/070531_chad_zakouma.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/05/070525_somaliamusic.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/05/070525_healthstaff.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/05/070514_gordonpledges.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/05/070506_malouma.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070427_mali_pix.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070424_biogaz.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/specials/1222_talent/"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/specials/1311_nigeria_elex/"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070423_eltsine_dead.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070414_profile_alquaedainnorth.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070414_french_film.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070410_forum_autochtone.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070414_blind_braille.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/04/070406_warming_world.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070330_france_campagne_securite.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070302_criminaliteafrica.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070302_mac_vulnerable.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070302_morocco_birth.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2007/01/070128_internet_debate.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070125_zimbabwe_danseuse.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070125_liberia_viols.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/01/070118_ordinateur-xo.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070112_somalia_moga.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070112_gahana_abortion.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2007/01/070105_philantropie.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/01/070108_conflitsregiono.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070105_bamako_sissako.shtml"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/meta/tx/nb/afrique_direct_au_nb.ram"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/meta/tx/nb/interview_au_nb.ram"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/meta/tx/nb/britannia_au_nb.ram"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/meta/tx/nb/sport_weekend_au_nb.ram"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/meta/tx/nb/clubbbc_au_nb.ram"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/grandformat.ram"/>
+            <rdf:li rdf:resource="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/starclub.ram"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/images/furniture/syndication/bbcfrench_180x80.gif">
+      <title>BBCAfrique.com</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</link>
+      <url>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/images/furniture/syndication/bbcfrench_180x80.gif</url>
+   </image>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070620_nigeriastrike.shtml">
+      <title xml:lang="fr">Grève générale au Nigéria</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070620_nigeriastrike.shtml</link>
+      <description xml:lang="fr">Face à face entre les syndicats et le gouvernement nigérian. Malgré des concessions une grève générale illimitée a été déclenchée.</description>
+      <dc:date>2007-06-20T13:26:11+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070619_france_recel_inquiry.shtml">
+      <title xml:lang="fr">Bongo et Sassou dans le collimateur de la justice française</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070619_france_recel_inquiry.shtml</link>
+      <description xml:lang="fr">La justice française a ouvert une enquête préliminaire dans une affaire de détournement de deniers publics mettant en cause les présidents gabonais et congolais.</description>
+      <dc:date>2007-06-20T13:18:18+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+      <dc:relation>http://www.survie-france.org/ : Survie</dc:relation>
+      <dc:relation>http://www.fcd.ras.eu.org/ : Fédération des Congolais de la Diaspora</dc:relation>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070620_bush_holmert.shtml">
+      <title xml:lang="fr">Rencontre Bush-Olmert</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070620_bush_holmert.shtml</link>
+      <description xml:lang="fr">A Washington, George Bush a reçu Ehoud Olmert pour tenter de forger une "stratégie commune" à la suite de la prise de contrôle de la bande de Gaza par le Hamas. </description>
+      <dc:date>2007-06-20T08:17:11+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070619_saharalatest.shtml">
+      <title xml:lang="fr">Le Front Polisario et le Maroc toujours en négociations</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070619_saharalatest.shtml</link>
+      <description xml:lang="fr">Au premier round des négociations entre le Maroc et le Front Polisario, à New York, on est encore loin d'un compromis. </description>
+      <dc:date>2007-06-19T08:14:15+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070618_cea-rwandaburundi.shtml">
+      <title xml:lang="fr">La communauté de l'Afrique de l'est s'élargit</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070618_cea-rwandaburundi.shtml</link>
+      <description xml:lang="fr">L'Ouganda, le Kenya et la Tanzanie, membres historiques de cette entité régionale, accueillent le Rwanda et le Burundi. </description>
+      <dc:date>2007-06-18T18:31:36+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070613_blaiseyamoussokro.shtml">
+      <title xml:lang="fr">Blaise Compaoré en Côte d'Ivoire </title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070613_blaiseyamoussokro.shtml</link>
+      <description xml:lang="fr">Les protagonistes de la crise ivoirienne réaffirment leur engagement à mettre en oeuvre les accords de Ouagadougou.</description>
+      <dc:date>2007-06-14T10:05:22+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070613_afsud_forum.shtml">
+      <title xml:lang="fr">Le Cap accueille un forum économique sur l'Afrique </title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070613_afsud_forum.shtml</link>
+      <description xml:lang="fr">La rencontre devrait se concentrer sur la place du continent africain dans les échanges économiques mondiaux.</description>
+      <dc:date>2007-06-15T15:48:08+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070611_drc_bemba.shtml">
+      <title xml:lang="fr">RDC: Bemba reste au Portugal </title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070611_drc_bemba.shtml</link>
+      <description xml:lang="fr">Les proches de l'ancien vice-président disent craindre pour sa sécurité aprés son retour.</description>
+      <dc:date>2007-06-11T10:04:18+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070610_sembene_death.shtml">
+      <title xml:lang="fr">Sembène Ousmane est mort </title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070610_sembene_death.shtml</link>
+      <description xml:lang="fr"> Le cinéaste et écrivain sénégalais est l'auteur d'une douzaine de films et de romans. Il figure parmi les pionniers du cinéma africain.  Dans son palmarès plusieurs trophées.</description>
+      <dc:date>2007-06-19T14:11:00+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070608_cacaoetconflits.shtml">
+      <title xml:lang="fr">Le cacao  "alimente les conflits"</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070608_cacaoetconflits.shtml</link>
+      <description xml:lang="fr">Une ONG affirme que des millions de dollars de revenus émanant du cacao ont contribué à alimenter des années de conflit en Côte d'Ivoire. 
+</description>
+      <dc:date>2007-06-08T17:55:43+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070612_usasoudan_alquaeda.shtml">
+      <title xml:lang="fr">USA- Soudan: un plan commun contre Al-Qaïda</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070612_usasoudan_alquaeda.shtml</link>
+      <description xml:lang="fr">Les Etats-Unis et le Soudan coopèrent afin d'infiltrer les mouvements islamistes et rebelles en Irak.</description>
+      <dc:date>2007-06-12T15:20:59+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070610_france_elex.shtml">
+      <title xml:lang="fr">France : les élections législatives </title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070610_france_elex.shtml</link>
+      <description xml:lang="fr">Le premier tour des élections législatives se tient ce dimanche en France métropolitaine. Les Français d'Outre-mer ont voté samedi. 
+</description>
+      <dc:date>2007-06-10T02:56:08+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070607_saudiukarms.shtml">
+      <title xml:lang="fr">Un prince saoudien a reçu "des pots-de-vin de Londres"</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/06/070607_saudiukarms.shtml</link>
+      <description xml:lang="fr">La compagnie britannique de défense, BAE, aurait versé des commissions secrètes au  prince saudien Bandar Bin Sultan dans le cadre d'un contrat d'armement.</description>
+      <dc:date>2007-06-07T15:50:29+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/05/070514_gordonpledges.shtml">
+      <title xml:lang="fr">Gordon Brown, candidat à la succession de Blair</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/05/070514_gordonpledges.shtml</link>
+      <description xml:lang="fr">Dans un débat contradictoire, le chancelier de l'Echiquier a esquissé son programme de gouvernement quand il succédera à Tony Blair fin juin. </description>
+      <dc:date>2007-05-16T16:02:18+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070330_vaccin_meningite.shtml">
+      <title xml:lang="fr">Nouveau vaccin contre la méningite à 1 euro</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070330_vaccin_meningite.shtml</link>
+      <description xml:lang="fr">GSK demande l'homologation de Globorix seulement distribué en Afrique. 
+</description>
+      <dc:date>2007-03-30T20:45:52+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070307_trafficenfants_ivorycoast.shtml">
+      <title xml:lang="fr">Trafic d'enfants en Côte d'Ivoire</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070307_trafficenfants_ivorycoast.shtml</link>
+      <description xml:lang="fr">Les services de sécurité maliens enquêtent sur une quarantaine d'enfants ivoiriens surpris avec un passeur qui avait promis de les amener en Europe.</description>
+      <dc:date>2007-04-24T11:45:15+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070302_morocco_birth.shtml">
+      <title xml:lang="fr">Maroc: Nombre record de grâces royales</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070302_morocco_birth.shtml</link>
+      <description xml:lang="fr">Pour marquer la naissance de sa fille, le roi accorde un nombre record de grâces et de remises de peines.
+</description>
+      <dc:date>2007-03-08T15:23:40+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/05/070501_firefox3.shtml">
+      <title xml:lang="fr">Firefox: bientôt la troisième version</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/05/070501_firefox3.shtml</link>
+      <description xml:lang="fr">La prochaine version du navigateur gratuit Firefox permettra de travailler connecté ou non à Internet. </description>
+      <dc:date>2007-06-14T10:21:13+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Highlights</dc:type>
+      <dc:relation>http://www.mozilla-europe.org/fr/products/firefox/ : Firefox (Mozilla)</dc:relation>
+      <dc:relation>http://frenchmozilla.sourceforge.net/ : Les autres logiciels libres Mozilla (téléchargeables) </dc:relation>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070414_blind_braille.shtml">
+      <title xml:lang="fr">Internet: des solutions pour les malvoyants </title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070414_blind_braille.shtml</link>
+      <description xml:lang="fr">Des solutions existent déjà pour aider les malvoyants et aveugles à utiliser l'Internet. Deux exemples: A-Browser, d'IBM, et RoboBraille</description>
+      <dc:date>2007-06-14T10:24:19+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+      <dc:relation>http://eduscol.education.fr/D0054/glossaire.htm : Aides aux mal voyants: logiciels, appareils, et glossaire</dc:relation>
+      <dc:relation>http://www-03.ibm.com/press/us/en/pressrelease/21230.wss : A-Browser</dc:relation>
+      <dc:relation>http://www1.robobraille.org/websites/acj/robobraille.nsf : RoboBraille </dc:relation>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/03/070307_supraconducteurs.shtml">
+      <title xml:lang="fr">Les supraconducteurs annoncent une ère nouvelle</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/03/070307_supraconducteurs.shtml</link>
+      <description xml:lang="fr">Il y a vingt ans, on annonçait une "ère nouvelle" grâce aux matériaux supraconducteurs. La révolution approche.
+</description>
+      <dc:date>2007-06-14T10:25:46+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Highlights</dc:type>
+      <dc:relation>http://fr.wikipedia.org/wiki/Supraconductivité : Supraconductivité</dc:relation>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2005/10/051016_club.shtml">
+      <title xml:lang="fr">Club BBC, votre rendez-vous!</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2005/10/051016_club.shtml</link>
+      <description xml:lang="fr">Le Club BBC, le rendez-vous des inconditionnels de la Radio de référence, avec Lamine Nouriddine Konkobo. </description>
+      <dc:date>2006-04-10T05:38:05+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Forum</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2005/10/051016_star_club.shtml">
+      <title xml:lang="fr">Le Star Club, vos dédicaces! </title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2005/10/051016_star_club.shtml</link>
+      <description xml:lang="fr">Le Star Club, le programme musical de BBC Afrique.</description>
+      <dc:date>2007-02-20T12:49:19+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Forum</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2005/10/051016_palabres.shtml">
+      <title xml:lang="fr">Palabres : Vos questions!</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2005/10/051016_palabres.shtml</link>
+      <description xml:lang="fr">Dans Palabres, posez-nous des questions qui touchent à tous les domaines de la connaissance.</description>
+      <dc:date>2007-02-20T12:23:13+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Forum</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/06/070614_zimbabwe_crisis.shtml">
+      <title xml:lang="fr">Zimbabwé : un rapport prévoit un "effondrement"</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/06/070614_zimbabwe_crisis.shtml</link>
+      <description xml:lang="fr">Selon un rapport rédigé à l'attention des ONG et de l'ONU, le Zimbabwé va vers un effondrement général d'ici la fin de l'année.</description>
+      <dc:date>2007-06-14T14:41:47+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Highlights</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/06/070614_mungikisect.shtml">
+      <title xml:lang="fr">Mungiki: une secte secrète</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/06/070614_mungikisect.shtml</link>
+      <description xml:lang="fr">secte mungiki</description>
+      <dc:date>2007-06-14T14:09:24+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Highlights</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/05/070531_chad_zakouma.shtml">
+      <title xml:lang="fr">Le parc de Zakouma : atout touristique du Tchad.</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/05/070531_chad_zakouma.shtml</link>
+      <description xml:lang="fr">Situé dans l'extrême sud du pays, ce parc national est devenu une destination  de prédilection pour les voyageurs en quête d'aventures. 
+</description>
+      <dc:date>2007-06-01T18:57:03+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/05/070525_somaliamusic.shtml">
+      <title xml:lang="fr">La musique à l'assaut des traditions somaliennes</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/05/070525_somaliamusic.shtml</link>
+      <description xml:lang="fr">Wayaah Cusub, un groupe de jeunes Somaliens en exil au Kenya, choisissent la musique pour s'attaquer à certaines traditions et aux tabous de leur communauté.
+</description>
+      <dc:date>2007-05-25T14:10:26+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Highlights</dc:type>
+      <dc:relation>http://www.hambalyo.com/waayaha_cusub_waayaha_cusub.html : Wayaah Cusub: clip vidéo</dc:relation>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/05/070525_healthstaff.shtml">
+      <title xml:lang="fr">La pénurie d'infirmières "tue les Africains"</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/05/070525_healthstaff.shtml</link>
+      <description xml:lang="fr">Le manque d'infirmières provoque des morts inutiles</description>
+      <dc:date>2007-05-25T15:37:11+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Highlights</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/05/070514_gordonpledges.shtml">
+      <title xml:lang="fr">Gordon Brown, candidat à la succession de Blair</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/05/070514_gordonpledges.shtml</link>
+      <description xml:lang="fr">Dans un débat contradictoire, le chancelier de l'Echiquier a esquissé son programme de gouvernement quand il succédera à Tony Blair fin juin. </description>
+      <dc:date>2007-05-16T16:02:18+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/05/070506_malouma.shtml">
+      <title xml:lang="fr">Malouma: artiste, sénateur, et militante</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/05/070506_malouma.shtml</link>
+      <description xml:lang="fr">Malouma est une chanteuse mauritanienne, mais elle est aussi bien plus que cela: après des années difficiles, elle est aujourd'hui sénateur. 
+Une position qui lui permet de mieux défendre ses idées.</description>
+      <dc:date>2007-05-06T12:37:45+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Highlights</dc:type>
+      <dc:relation>http://malouma.mondomix.com/fr/portrait3103.htm : Malouma</dc:relation>
+      <dc:relation>http://www.afromix.org/html/musique/instruments/ardin/index.fr.html : L'ardin (cliquer sur l'image pour l'agrandir) </dc:relation>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/external_link/2007/04/070427_mali_in_images.shtml">
+      <title xml:lang="fr">Images de la campagne électorale au Mali</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070427_mali_pix.shtml</link>
+      <description xml:lang="fr"/>
+      <dc:date>2007-04-27T18:10:10+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:type>External Link, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070424_biogaz.shtml">
+      <title xml:lang="fr">Tanzanie: le biogaz au service des producteurs de café</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070424_biogaz.shtml</link>
+      <description xml:lang="fr">En Tanzanie, des producteurs de café mettent à l'épreuve une nouvelle source(gratuite!) d'énergie: le biogaz.
+
+</description>
+      <dc:date>2007-04-24T13:35:47+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+      <dc:relation>http://fr.wikipedia.org/wiki/Biogaz : Le ebiogaz (wikipedia)</dc:relation>
+      <dc:relation>http://www.biogaz.atee.fr/ : Biogaz</dc:relation>
+      <dc:relation>http://www.cite.mg/cafe.htm : Le traitement du café (Madagascar)</dc:relation>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/external_link/2007/04/070417_talent_2007.shtml">
+      <title xml:lang="fr"/>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/specials/1222_talent/</link>
+      <description xml:lang="fr"/>
+      <dc:date>2007-04-17T17:15:48+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:type>External Link, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/external_link/2007/04/070417_nigeria_elex.shtml">
+      <title xml:lang="fr">Présidentielle 2007 au Nigeria</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/specials/1311_nigeria_elex/</link>
+      <description xml:lang="fr"/>
+      <dc:date>2007-04-25T00:34:28+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:type>External Link, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070423_eltsine_dead.shtml">
+      <title xml:lang="fr">Boris Eltsine : Une vie en images</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070423_eltsine_dead.shtml</link>
+      <description xml:lang="fr">L'ancien président russe, Boris Eltsine, est mort, à l'âge de 76 ans. Retour sur les grands moments de sa carrière politique.</description>
+      <dc:date>2007-04-23T18:25:46+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070414_profile_alquaedainnorth.shtml">
+      <title xml:lang="fr">Al-Qaida tisse sa toile au Maghreb</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070414_profile_alquaedainnorth.shtml</link>
+      <description xml:lang="fr">Les sanglants attentats d'Alger semblent confirmer  le changement de nom du Groupe Salafiste pour la Prédication et le combat devenu Al-Qaida au Maghreb.
+</description>
+      <dc:date>2007-04-14T17:01:13+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070414_french_film.shtml">
+      <title xml:lang="fr">Grande-Bretagne: le cinéma français à l'affiche</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070414_french_film.shtml</link>
+      <description xml:lang="fr">Poursuivant sur sa lancée des deux années précédentes, le cinéma français a commencé
+cette année sur les chapeaux de roues au Royaume-Uni.</description>
+      <dc:date>2007-04-18T08:48:56+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070410_forum_autochtone.shtml">
+      <title xml:lang="fr">Forum des peuples autochtones</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070410_forum_autochtone.shtml</link>
+      <description xml:lang="fr">Congo-Brazzaville: Rencontre pour la promotion des Pygmées d'Afrique centrale</description>
+      <dc:date>2007-04-13T17:32:27+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070414_blind_braille.shtml">
+      <title xml:lang="fr">Internet: des solutions pour les malvoyants </title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/04/070414_blind_braille.shtml</link>
+      <description xml:lang="fr">Des solutions existent déjà pour aider les malvoyants et aveugles à utiliser l'Internet. Deux exemples: A-Browser, d'IBM, et RoboBraille</description>
+      <dc:date>2007-06-14T10:24:19+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+      <dc:relation>http://eduscol.education.fr/D0054/glossaire.htm : Aides aux mal voyants: logiciels, appareils, et glossaire</dc:relation>
+      <dc:relation>http://www-03.ibm.com/press/us/en/pressrelease/21230.wss : A-Browser</dc:relation>
+      <dc:relation>http://www1.robobraille.org/websites/acj/robobraille.nsf : RoboBraille </dc:relation>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/04/070406_warming_world.shtml">
+      <title xml:lang="fr">Réchauffement planétaire: un constat accablant</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/04/070406_warming_world.shtml</link>
+      <description xml:lang="fr">Un panel a présenté cette semaine à Bruxelles un rapport qui évalue les effets du réchauffement planétaire dans diverses parties de la terre. </description>
+      <dc:date>2007-04-10T16:34:56+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Highlights</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070330_france_campagne_securite.shtml">
+      <title xml:lang="fr">France : la sécurité relance le duel Sarkozy-Royal</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070330_france_campagne_securite.shtml</link>
+      <description xml:lang="fr">Aux scènes de violences mardi gare du Nord à Paris a répondu une  montée de fièvre dans la campagne électorale.
+</description>
+      <dc:date>2007-03-30T14:45:58+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070302_criminaliteafrica.shtml">
+      <title xml:lang="fr">Afrique du sud: la lutte contre la criminalité </title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070302_criminaliteafrica.shtml</link>
+      <description xml:lang="fr">L'Afrique du sud réussit. Une ombre, pourtant, au tableau: la criminalité ne cesse d'augmenter.
+
+</description>
+      <dc:date>2007-03-05T20:09:07+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070302_mac_vulnerable.shtml">
+      <title xml:lang="fr">Non, les Macs "ne sont pas invulnérables"</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070302_mac_vulnerable.shtml</link>
+      <description xml:lang="fr">Il n'existe pas de virus ou d'autres logiciels malveillants visant les Macs. Mais un jeune chercheur spécialiste des questions de sécurité avertit que ces ordinateurs sont néanmoins vulnérables.
+</description>
+      <dc:date>2007-03-09T10:35:30+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+      <dc:relation>http://projects.info-pull.com/moab/ : Le "mois des bogues pour Apple" (moab)</dc:relation>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070302_morocco_birth.shtml">
+      <title xml:lang="fr">Maroc: Nombre record de grâces royales</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/03/070302_morocco_birth.shtml</link>
+      <description xml:lang="fr">Pour marquer la naissance de sa fille, le roi accorde un nombre record de grâces et de remises de peines.
+</description>
+      <dc:date>2007-03-08T15:23:40+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2007/01/070128_internet_debate.shtml">
+      <title xml:lang="fr">Internet: l'une des plus grandes inventions de tous les temps?</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2007/01/070128_internet_debate.shtml</link>
+      <description xml:lang="fr">Internet serait-il la plus grande invention de tous les temps? Comment la mère des réseaux a-t-il changé vos habitudes?</description>
+      <dc:date>2007-02-09T18:52:15+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Forum</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070125_zimbabwe_danseuse.shtml">
+      <title xml:lang="fr">Zimbabwe: l'érotisme au service des valeurs traditionnelles</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070125_zimbabwe_danseuse.shtml</link>
+      <description xml:lang="fr">Zimbabwe: danses "osées"' pour défendre les valeurs traditionnelles et... lutter contre le SIDA
+</description>
+      <dc:date>2007-01-30T17:23:30+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Highlights</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070125_liberia_viols.shtml">
+      <title xml:lang="fr">Libéria: un an de lutte contre le viol</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070125_liberia_viols.shtml</link>
+      <description xml:lang="fr">Au Libéria, il y a un an que la présidente Ellen Johnson Sirleaf a déclenché sa "guerre" contre les viols de femmes, de jeunes filles et même d'enfants en bas âge. Bilan de l'action jusqu'ici...  
+</description>
+      <dc:date>2007-01-26T17:23:54+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Highlights</dc:type>
+      <dc:relation>http://www.unicef.fr/index.php4?rub=416&amp;amp;articles=2252 : Rapport de l'UNICEF sur le viol</dc:relation>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/01/070118_ordinateur-xo.shtml">
+      <title xml:lang="fr">L'ordinateur à 100$ bientôt sur le marché ?</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/01/070118_ordinateur-xo.shtml</link>
+      <description xml:lang="fr">L'ordinateur à 100 dollars, qui sera bientôt livré à des pays en développement, pourrait aussi être mis en vente librement en Occident.
+
+</description>
+      <dc:date>2007-03-15T11:10:27+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+      <dc:relation>http://www.laptop.org/index.fr.html : Un portable pour chaque enfant (en français) </dc:relation>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070112_somalia_moga.shtml">
+      <title xml:lang="fr">Inquiétude à Mogadiscio  </title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070112_somalia_moga.shtml</link>
+      <description xml:lang="fr">La vie à Mogadiscio est toujours faite de peur. Les cicatrices de 16 ans d'anarchie dans le pays rendent tout la population méfiante quant à l'avenir. </description>
+      <dc:date>2007-01-15T16:58:16+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Highlights</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070112_gahana_abortion.shtml">
+      <title xml:lang="fr">Des Ghanéennes risquent leur vie en avortant </title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070112_gahana_abortion.shtml</link>
+      <description xml:lang="fr">Beaucoup de Ghanéennes perdent la vie en tentant d'interrompre leur grossesse clandestinement.</description>
+      <dc:date>2007-01-15T10:09:07+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Highlights</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2007/01/070105_philantropie.shtml">
+      <title xml:lang="fr">La philanthropie peut-elle développer l'Afrique?</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/story/2007/01/070105_philantropie.shtml</link>
+      <description xml:lang="fr">La philanthropie peut-elle développer l'Afrique?</description>
+      <dc:date>2007-01-12T16:56:00+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Forum</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/01/070108_conflitsregiono.shtml">
+      <title xml:lang="fr">La guerre contre la terreur en Afrique</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/news/story/2007/01/070108_conflitsregiono.shtml</link>
+      <description xml:lang="fr">La "guerre contre la terreur", décrétée par Washington, s'est intensifiée dans la Corne de l'Afrique en 2006, aux dépens d'autres dossiers importants.</description>
+      <dc:date>2007-01-12T17:46:28+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, News</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070105_bamako_sissako.shtml">
+      <title xml:lang="fr">Bamako : ''Pour que nul n'ignore ''</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/highlights/story/2007/01/070105_bamako_sissako.shtml</link>
+      <description xml:lang="fr">Bamako</description>
+      <dc:date>2007-01-06T12:43:05+00:00</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:creator>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/worldservice/french/</dc:creator>
+      <dc:type>Story, Highlights</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/forum/external_link/2006/07/060724_africa_live.shtml">
+      <title xml:lang="fr">L'Afrique en direct</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/meta/tx/nb/afrique_direct_au_nb.ram</link>
+      <description xml:lang="fr"/>
+      <dc:date>2006-07-24T18:20:43+0000</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:type>External Link, Audio</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/audio/external_link/2006/05/060504_interview.shtml">
+      <title xml:lang="fr">L'Interview</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/meta/tx/nb/interview_au_nb.ram</link>
+      <description xml:lang="fr"/>
+      <dc:date>2006-05-04T18:17:44+0000</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:type>External Link, Audio</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/audio/external_link/2006/05/060504_britannia.shtml">
+      <title xml:lang="fr">Britannia</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/meta/tx/nb/britannia_au_nb.ram</link>
+      <description xml:lang="fr"/>
+      <dc:date>2006-05-04T18:17:06+0000</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:type>External Link, Audio</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/audio/external_link/2006/03/060323_swe.shtml">
+      <title xml:lang="fr">Sport Week End</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/meta/tx/nb/sport_weekend_au_nb.ram</link>
+      <description xml:lang="fr"/>
+      <dc:date>2006-03-23T18:38:33+0000</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:type>External Link, Audio</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/audio/external_link/2006/05/060504_club_bbc.shtml">
+      <title xml:lang="fr">Le Club BBC</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/meta/tx/nb/clubbbc_au_nb.ram</link>
+      <description xml:lang="fr"/>
+      <dc:date>2006-05-04T18:16:15+0000</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:type>External Link, Audio</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/audio/external_link/2006/03/060322_club_granformat.shtml">
+      <title xml:lang="fr">Le Grand Format</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/grandformat.ram</link>
+      <description xml:lang="fr"/>
+      <dc:date>2006-03-22T19:49:09+0000</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:type>External Link, Audio</dc:type>
+   </item>
+   <item rdf:about="http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/audio/external_link/2005/09/050930_starsclub.shtml">
+      <title xml:lang="fr">Le Star Club</title>
+      <link>http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/starclub.ram</link>
+      <description xml:lang="fr"/>
+      <dc:date>2005-09-30T14:24:25+0000</dc:date>
+      <dc:format>text/plain</dc:format>
+      <dc:language>fr</dc:language>
+      <dc:publisher>BBCAfrique.com</dc:publisher>
+      <dc:type>External Link, Audio</dc:type>
+   </item>
+</rdf:RDF>

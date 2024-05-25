@@ -1,0 +1,11 @@
+# robots.txt relatif à http://www.afriqueplus.org
+
+User-agent: *
+Disallow: /include/
+Disallow: /src/
+Disallow: /special/
+Allow: /
+
+
+
+

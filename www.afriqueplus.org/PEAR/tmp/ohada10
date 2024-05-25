@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0">
+<channel>
+<title>OHADA.com</title>
+<link>http://localhost/rss/OHADA/www.ohada.com</link>
+<description>Lettre d'information OHADA.com - Newsletter</description>
+<copyright>© OHADA.com 2005</copyright>
+<language>fr</language>
+<image>
+	<title>OHADA.com</title>
+	<url>http://localhost/rss/OHADA/www.ohada.com/images/logo_carte_ohada.gif</url>
+	<link>http://localhost/rss/OHADA/www.ohada.com</link>
+</image>
+<pubDate>Thu, 21 Jun 2007 13:56:07 +0100</pubDate>
+<item>
+	<title>Rapport de la causerie éducative organisée par le Club OHADA de l'ESSEC de Douala le 14 juin 2007</title>
+	<link>http://localhost/rss/OHADA/www.ohada.com/newsletter2dcd.html</link>
+	<pubDate>Thu, 21 Jun 2007 13:54:19 +0100</pubDate>
+</item>
+<item>
+	<title>Publication d'un ouvrage sur le droit de la concurrence dans l'UEMOA</title>
+	<link>http://localhost/rss/OHADA/www.ohada.com/newsletter260b.html</link>
+	<pubDate>Tue, 19 Jun 2007 10:56:17 +0100</pubDate>
+</item>
+<item>
+	<title>Compte rendu de la Journée d'Etudes Jurisclasseur OHADA du 8 juin 2007, Paris</title>
+	<link>http://localhost/rss/OHADA/www.ohada.com/newsletteraf18.html</link>
+	<pubDate>Fri, 15 Jun 2007 08:12:46 +0100</pubDate>
+</item>
+<item>
+	<title>Causerie éducative OHADA et management des entreprises à DOUALA le Jeudi 14 juin 2007</title>
+	<link>http://localhost/rss/OHADA/www.ohada.com/newsletter4e57.html</link>
+	<pubDate>Wed, 13 Jun 2007 02:58:50 +0100</pubDate>
+</item>
+<item>
+	<title>Un concert exceptionnel pour le lancement de l'OHADAC le 19 décembre 2007 à la Salle Gaveau à Paris</title>
+	<link>http://localhost/rss/OHADA/www.ohada.com/newsletteradf6.html</link>
+	<pubDate>Mon, 11 Jun 2007 23:34:50 +0100</pubDate>
+</item>
+<item>
+	<title>OHADA des télécoms : une phase essentielle dans le processus d'harmonisation des réglementations des télécommunications en Afrique a été franchie</title>
+	<link>http://localhost/rss/OHADA/www.ohada.com/newspress35fd.html</link>
+	<pubDate>Wed, 06 Jun 2007 10:41:42 +0100</pubDate>
+</item>
+<item>
+	<title>Rapport des Prix de l'Intégration Juridique Africaine (PIJA) / Abidjan 20 avril 2007</title>
+	<link>http://localhost/rss/OHADA/www.ohada.com/newsletterc547.html</link>
+	<pubDate>Mon, 04 Jun 2007 22:58:11 +0100</pubDate>
+</item>
+<item>
+	<title>Club OHADA de l'Université Catholique d'Afrique Centrale (UCAC) / Yaoundé - 13 juin 2007</title>
+	<link>http://localhost/rss/OHADA/www.ohada.com/newsletterc098.html</link>
+	<pubDate>Sun, 03 Jun 2007 13:18:25 +0100</pubDate>
+</item>
+<item>
+	<title>Compte rendu du séminaire OHADA de Grand Bassam (Côte d'Ivoire) du 12 mai 2007</title>
+	<link>http://localhost/rss/OHADA/www.ohada.com/newsletter3819.html</link>
+	<pubDate>Thu, 31 May 2007 07:32:36 +0100</pubDate>
+</item>
+<item>
+	<title>OHADA Seminar, ACCRA, May 22, 24, 2007</title>
+	<link>http://localhost/rss/OHADA/www.ohada.com/newsletter48cc.html</link>
+	<pubDate>Tue, 29 May 2007 10:06:21 +0100</pubDate>
+</item>
+</channel>
+</rss>

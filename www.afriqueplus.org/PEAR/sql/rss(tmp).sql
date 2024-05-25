@@ -1,0 +1,65 @@
+INSERT INTO `rss`(`source`,`link`,`categorie`) VALUES
+
+(
+ 'pmb',
+ 'http://localhost/rss/www.papamamanbebe.net/spip04ff.xml',
+ 'Santé'
+),
+
+(
+ 'grioo',
+ 'http://localhost/rss/www.grioo.com/www.grioo.com/syndication/generalf7e1.xml?out=rss',
+ 'Actualité'
+),
+(
+ 'f24',
+ 'http://localhost/rss/www.france24.com/www.france24.com/france24Public/rss68e5.xml?cat=9&language=fr',
+ 'Actualité'
+),
+(
+ 'bbc',
+ 'http://localhost/rss/www.bbc.co.uk/www.bbc.co.uk/french/index.xml',
+ 'Actualité'
+),
+(
+ 'afk',
+ 'http://localhost/rss/www.afrik.com/www.afrik.com/affiliation/backend.html',
+ 'Actualité'
+),
+(
+ 'oao',
+ 'http://localhost/rss/www.loccidental.net/www.loccidental.net/spip04ff.xml',
+ 'Actualité'
+),
+(
+ 'aem',
+ 'http://localhost/rss/www.afriquechos.ch/www.afriquechos.ch/spip04ff.xml',
+ 'Actualité'
+),
+(
+ 'afp',
+ 'http://localhost/rss/www.africapresse.com/www.africapresse.com/rss2.xml',
+ 'Actualité'
+),
+(
+ 'rfi',
+ 'http://localhost/rss/AfriqueFootball/www.rfi.fr/actufr/pages/001/accueil_afrique_foot.xml',
+ 'Sport'
+),
+(
+ 'ohada',
+ 'http://localhost/rss/OHADA/www.ohada.com/xml/fluxrss.xml',
+ 'Economie'
+),
+(
+ 'anz',
+ 'http://localhost/rss/ananzie.net/www.ananzie.net/spip04ff.xml',
+ 'Actualité'
+)
+/*
+(
+ '',
+ '',
+ 'Actualité'
+),
+*/
