@@ -1,0 +1,216 @@
+/* BLOCK #reinsurance_block ******************************************************************** */
+#reinsurance_block li {
+	float:left;
+	padding:15px 10px !important;
+	font-size:1.2em;
+  font-weight: bold;
+	color: blue;
+	text-transform:uppercase;
+	text-shadow: 1px 1px 1px white;
+  
+}
+form,legend,input,fieldset,select,option{
+ color: #9E040E;
+}
+fieldset,input,select,option{
+ border: 1px solid #7A0000; 
+}
+ input,textarea,option,select,option{
+ display: block;
+ color: #9E040E;
+ background-color: rgb(204,153,0);
+ text-align: left;
+ margin: 5px auto;
+ font-style: italic;
+ font-weight: bold;  
+}
+input:hover,textarea:hover,option:hover,select:hover,option:hover{
+  color: #FFB800;
+  background-color: #ffc;
+} 
+#reinsurance_block .width1 li {width:960px}
+#reinsurance_block .width2 li {width:470px}
+#reinsurance_block .width3 li {width:305px}
+#reinsurance_block .width4 li {width:224px}
+#reinsurance_block .width5 li {width:175px}
+#reinsurance_block li img{
+	float:left;
+	margin-right:10px;
+}
+#reinsurance_block li span {
+	float:left;
+	padding-top:12px;
+	width:65%;
+}
+/************************************************************** Personalisation du theme*/
+
+html,body{
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background: rgb(204,153,0) url(img/bg_html.jpg) repeat;
+	color: #600;
+}
+div#page {
+	width: 980px;
+	margin: 10px auto;
+	padding: 0;
+	border: 1px solid #600;
+	background-color: #ffc;
+}
+div#header{
+ background-color: #F9B400;
+ border: 1px solid #600 ;
+ font-weight: bold;
+ height: 137px;
+}
+a#header_logo{
+  padding: 0;
+  margin: 0; 
+}
+div#header_right{
+ width: 570px;
+ padding: 0;
+ margin: 0;
+ float: right;
+}
+
+form#searchbox {
+ padding: 0;
+ margin: -15px 10px 0 5px;
+ background-color: rgb(255,153,255);
+}
+form#searchbox input#search_query_top{
+ background: #ffc url(img/search.gif) left center no-repeat;
+ width: 250px;
+ padding-left: 17px;
+ border: 1px solid #600;
+ font-size: 1.1em;
+ font-family: Palatino, 'Palatino Linotype', Georgia, Times, 'Times New Roman', serif;
+ font-weight: bold;
+ color: #FFB800; 
+}
+form#searchbox input#search_query_top:hover{
+  color: #9E040E;
+  background-color: rgb(204,153,0);
+}
+form#searchbox input.button{
+ width: 90px;
+ border: 1px solid #600;
+ color: #ffc;
+ background: #600 url(img/bg_footer.jpg) repeat-x;
+} 
+
+#currencies_block_top #setCurrency #first-currencies{
+   width: 60px;
+   font-size: 150%;
+   font-weight: bold;
+   text-shadow: 1px 1px 1px #600;
+   border: 2px solid #600;
+   background: #F9B400;
+}
+#currencies_block_top #setCurrency #first-currencies:hover{
+   text-shadow: 1px 1px 2px red;
+   border-color: red;
+  color: #9E040E;
+  background-color: #330;
+}
+div.sf-contener{
+
+}
+ul.sf-menu{
+ background: #600;
+ font-size: 110%;
+}
+
+ul.sf-menu li{
+ background: #600;
+ border: 1px solid #9E040E;
+ border-radius: 5px;
+ text-align: center;
+ margin: 0 auto;
+}
+ul.sf-menu li:hover, ul.sf-menu a:hover{
+  color: lime;
+  background-color: #F9B400;
+  border-color: #ffc;  
+}
+p#header_user_info{
+ display: block;
+ width: 100%;
+ padding-right: 5px;
+}
+div#columns{
+width: 980px;
+padding: 10px 0;
+background:  url(img/page.jpg) center repeat-y;
+
+}
+
+
+div#reinsurance_block{ 
+ border-top: 1px solid lime;
+ border-bottom: 1px solid gold;
+ background: rgb(0,191,255) url(img/bg_reinsurance_block.jpg) ;
+ color: blue;
+}
+div#footer{ 
+ background: #B9DD00 url(img/footer.jpg) repeat-x;
+ font-size: 110%;
+ font-weight: bold; 
+}
+#currencies_block_top, #newsletter_block_left .title_block, .myaccount .title_block a, #contact_block .title_block, #contact_block h4, p.title_block, .block .title_block, .products_block .title_block a, .block h4 {
+ display: block;
+ padding: 10px ;
+ font-size: 1.1em;
+ font-weight: bold;
+ text-align: center;
+ border: 1px solid #600;
+ border-radius: 5px;
+ color: #ffc;
+ background: #600 url(img/bg_footer.jpg) repeat; 
+}
+div#block_contact_infos{
+padding-bottom: 150px;
+background: url(img/drapeau_du_cameroun.gif) center bottom no-repeat;
+}
+#editorial_block_center h1 {
+  padding-left: 25px;
+	margin-left: 5px;
+	line-height: 35px;
+	font-size: 30px;
+  font-weight: bold;
+	text-align: center;
+	background:  rgb(204,255,204) url(img/bg_menu.jpg) left top no-repeat;
+	color: rgb(0,153,0);
+	border-bottom: 2px solid rgb(0,153,0);
+}
+#editorial_block_center h2 {
+	padding-left: 25px;
+	margin-left: 15px;
+	line-height: 25px;
+	font-size: 25px;
+  font-weight: bold;
+	background: #ffc url(img/bg_menu.jpg) no-repeat left bottom;
+	color: #DFA679;
+	border-bottom: 1px solid #DFA679;
+}
+#editorial_block_center h3 {
+	margin-left: 25px;
+	padding-left: 25px;
+	font-size: 1.3em;
+  line-height: 26px;
+	border-bottom: 1px solid #7A0000;
+	color: #7A0000;
+	background: url(img/bg_html.jpg) no-repeat;
+}
+#editorial_block_center h4 {
+	margin-left: 35px;
+	padding-left: 25px;
+	font-size: 1.1em;
+  line-height: 26px;
+	border-bottom: 1px solid #7A0000;
+	color: #7A0000;
+	background: url(img/bg_footer.jpg) no-repeat;
+}
