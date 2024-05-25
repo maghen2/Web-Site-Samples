@@ -1,0 +1,34 @@
+/* TEAM */
+	Chef: MAGHEN NEGOU Rostant
+	Contact: maghen2@gmail.com
+	Tel: +237 77920685
+	From: Douala, Littoral, Cameroon
+
+	UI developer: MAGHEN NEGOU Rostant
+	Contact: maghen2@gmail.com
+	Tel: +237 77920685
+	From: Douala, Littoral, Cameroon
+
+	One eyed illustrator: MAGHEN NEGOU Rostant
+	Contact: maghen2@gmail.com
+	Tel: +237 77920685
+	From: Douala, Littoral, Cameroon
+
+	Standard Man: MAGHEN NEGOU Rostant
+	Contact: maghen2@gmail.com
+	Tel: +237 77920685
+	From: Douala, Littoral, Cameroon
+
+	Web designer: MAGHEN NEGOU Rostant
+	Contact: maghen2@gmail.com
+	Tel: +237 77920685
+	From: Douala, Littoral, Cameroon
+
+/* THANKS */
+MAFODAM SIFFO Ariane
+
+/* SITE */
+	Last update:2012/02/04
+	Language: French / English
+	Doctype: XHTML 1.1
+	IDE: PSPad, PhotoFiltre, LibreOffice, SmartFtp

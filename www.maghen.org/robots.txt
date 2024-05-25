@@ -1,0 +1,9 @@
+# robots.txt relatif à http://www.afriqueplus.org
+
+User-agent: *
+Disallow: /.pear/
+Allow: /
+
+
+
+

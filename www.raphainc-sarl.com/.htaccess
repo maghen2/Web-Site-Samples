@@ -1,0 +1,16 @@
+# Fichier de configuration personelle d'Apache
+
+# Tout les fichier .php seront interprèteès par PHP5
+#;AddHandler x-httpd-php5 .php
+#;AddType application/x-httpd-php5 .php
+
+# Listage de repertoire interdit
+Options -Indexes  
+
+# Gestion personalisée des Erreurs HTTP 
+# 403 Forbidden
+# 404 Not Found
+# 500 Internal Server Error
+ErrorDocument 403 /error.php?error=403
+ErrorDocument 404 /error.php?error=404
+ErrorDocument 500 /error.php?error=500

@@ -1,0 +1,287 @@
+/* Copyrights Mai 213, MAGHEN NEGOU Rostant, Tout droit réservé
+MAGHEN NEGOU Rostant
+Communicateur Informaticien
+Tél:(+237) 77 92 06 85 - 94 27 12 80 - 77 55 57 43 - 77 28 28 51
+BP: Douala Cameroun
+Email : maghen2@gmail.com
+*/
+/*Positionement du site avec une resolution de 1024x768*/	
+html,body{
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  padding-bottom: 20px;
+  background: rgb(204,153,0) url(bg_html.jpg) repeat;
+  font-family: Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+	font-size: 1.1em;
+	color: #7A0000;
+}
+div{
+ margin: 0 auto;
+ padding: 1px;
+}
+div#page{
+  width: 950px;
+  min-height: 700px;
+  margin: 10px auto 20px;
+  padding: 0;
+  border: 1px solid #7A0000;
+  background-color: white ;
+}
+/* Mise en page generale */
+h1 {
+	padding-left: 25px;
+	margin-left: 5px;
+	line-height: 35px;
+	font-size: 1.7em;
+  font-weight: bold;
+	text-align: center;
+	background:  url(bg_menu.jpg) left top no-repeat;;
+	color: rgb(0,153,0);
+	border-bottom: 2px solid rgb(0,153,0);
+}
+h2 {
+	padding-left: 25px;
+	margin-left: 15px;
+	line-height: 25px;
+	font-size: 1.5em;
+  font-weight: bold;
+	background: url(bg_menu.jpg) no-repeat left bottom;
+	color: #DFA679;
+	border-bottom: 1px solid #DFA679;
+}
+h3 {
+	margin-left: 25px;
+	padding-left: 25px;
+	font-size: 1.3em;
+  line-height: 26px;
+	border-bottom: 1px solid #7A0000;
+	color: #7A0000;
+	background: url(bg_html.jpg) no-repeat;
+}
+h4 {
+	margin-left: 35px;
+	padding-left: 25px;
+	font-size: 1.1em;
+  line-height: 26px;
+	border-bottom: 1px solid #7A0000;
+	color: #7A0000;
+	background: url(bg_footer.jpg) no-repeat;
+}
+h5{
+	margin-left: 45px;
+	font-size: 0.9em;
+	border-bottom: 1px solid #7A0000;
+	border-left: 3px solid #7A0000;
+	color: #7A0000;
+  font-variant: small-caps; 
+}
+h6{
+  margin-left: 55px;
+	font-size: 0.8em;
+	border-bottom: 1px solid #7A0000;
+	border-left: 2px solid #7A0000;
+	color: #7A0000;
+  font-variant: small-caps;   
+}
+p,address,blockquote,dl,hr,pre {
+	text-align: justify;
+	text-indent: 2em;
+  margin: 0 auto 1em ;
+}
+ul,ol {
+	text-align: left;
+	text-indent: 0;
+}
+img{
+ margin: 5px;
+ margin-right: 15px ;
+ padding: 0;
+ border-bottom: 1px solid #9b2 ;
+ border-right: 2px solid #9b2 ;
+ color: #9b2 ;
+ display: block;
+ float: left;
+}
+table.ref img{
+margin: 0 auto;
+float: none;
+border: 1px solid #9b2 ;
+
+}
+form,legend,input,fieldset{
+ color: #9E040E;
+}
+fieldset,input{
+ border: 1px solid #7A0000; 
+}
+ input,textarea,option{
+ display: block;
+ color: #9E040E;
+ background-color: rgb(204,153,0);
+ text-align: center;
+ margin: 5px auto;
+ font-style: italic;  
+}
+input:hover,textarea:hover,option:hover {
+  color: #FFB800;
+  background-color: #ffc;
+}     
+/* Fin de la mise en page generale
+Mise en page de l'entente */
+div#header{
+ height:150px;
+ padding: 2px 20px 2px 20px;
+ background: #DFA679 url(logo_maghen_negou_rostant.jpg) 795px center no-repeat; 
+}
+div#header h1{
+ width: 650px;
+ height: 41px;
+ color: #DFA679;
+ text-indent: -20000px;
+ margin: 1px 0 2px;
+ background: url(header.jpg) no-repeat;
+ border: none;
+ padding-left: 0;
+}
+div#header address,a{
+ color: #9E040E;
+ text-indent: 20px;
+ font-size: 1.2em;
+ line-height: 111%;
+ text-decoration: none;
+ margin:0;
+ font-weight: normal;
+}
+div#header h2{
+ color: white;
+ font-size: 1.5em;
+ margin: 2px 0;
+ font-style: italic;
+ font-weight: bold;
+ border: none;
+ background: none;
+ padding-left: 0;
+
+}
+
+/* Mise en page des menus horizontaux et verticaux */
+div#menu{
+ height: 35px;
+ text-align: center;
+ vertical-align: middle;
+ background-color: #DFA679; 
+}
+div#menu menu.menu{
+ height: 100%;
+ width: 100%;
+ list-style: none;
+ margin: 0;
+ padding: 0;
+}
+div#menu menu.menu li{
+ height: 100%;
+ width: 14%;
+ float: left; 
+ margin: 0 0 0 2.5px;
+   
+}
+div#nav menu.menu{
+ width: 100%;
+ list-style: none;
+ margin:25px 0;
+ padding: 0;
+}
+div#nav menu.menu li{
+ height: 35px;
+ width: 100%;
+ margin: 5px 0;
+  
+}
+menu.menu li a{
+  display: block;
+  height: 100%;
+  width: 100%;
+  font-size: 1.1em;
+  line-height: 35px;
+  vertical-align: bottom;
+  text-align: left;
+  padding-left: 0px;
+  font-weight: bold;  
+  color: #8a0;
+  text-shadow: none;
+  background: rgb(204,255,204) url(bg_menu.jpg) left top no-repeat; 
+}
+
+menu.menu li a:hover{
+  color: #FFB800;
+  background: #ffc url(bg_menu.jpg) left bottom no-repeat;  
+}
+
+/* Mise en page de la colone de navigation */
+div#nav{
+ width: 25%;
+ float: left;
+ padding: 3px;
+}
+
+div#nav form.search,legend,input,fieldset{
+ font-size: 0.9em;  
+}
+div#nav form.search input{
+ width: 50%;
+}
+div#nav form.search input.q{
+ width: 97%;
+}
+ 
+/* Mise en page du contenu 'corps de page'*/ 
+div#content{
+ width: 73%;
+ min-height: 2100px;
+ float: right;
+ border-left: 1px solid #7A0000; 
+ padding: 5px; 
+}
+/*Mise en forme du pied de page*/ 
+div#footer{ 
+ height: 25px;
+ clear: both;
+ margin: 0;
+ padding: 0;
+ text-align: center;
+ border-top: 1px solid #7A0000;
+ background: #DFA679 url(bg_footer.jpg) repeat-x;
+}
+div#footer p{
+ display: inline;
+ margin: 0;
+ padding: 0;
+ color: white;
+ text-align: center;
+ font-size: 1.4em;
+ font-style: italic;
+ font-weight: bold; 
+}
+
+/* Mise en form des liens*/
+a {
+	color: lime;
+	font-weight: bold;
+  text-shadow: 1px 1px 1px  green;
+}
+
+a:active {
+	color: #c00;
+  text-shadow: 1px 1px 1px  lime;
+}
+a:hover {
+color: #FFB800;
+  text-shadow: 1px 1px 1px  red;
+}
+a:visited {
+color: red;
+text-shadow: 1px 1px 1px  #FFB800;
+}
+
