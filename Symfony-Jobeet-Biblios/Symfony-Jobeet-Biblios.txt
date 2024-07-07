@@ -1,0 +1,1 @@
+ Il vous faudra toujours faire en sorte que les utilisateurs puissent accéder à plusieurs pages (le routing), il faudra toujours avoir une logique qui permette d’afficher lesdites pages (le templating), il faudra très souvent de quoi accéder à une base de données, ou un accès sécurisé, etc
