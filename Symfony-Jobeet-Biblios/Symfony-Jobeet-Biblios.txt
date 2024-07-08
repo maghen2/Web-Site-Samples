@@ -1,1 +1,23 @@
  Il vous faudra toujours faire en sorte que les utilisateurs puissent accéder à plusieurs pages (le routing), il faudra toujours avoir une logique qui permette d’afficher lesdites pages (le templating), il faudra très souvent de quoi accéder à une base de données, ou un accès sécurisé, etc
+
+Les Composants
+Fournissent une fonctionnalité autonome et indépendante (console, routing, EventDispatcher…)
+
+Les Polyfills
+Outils de compatibilité qui permettent d’utiliser des fonctions de PHP normalement non disponibles dans la version que vous utilisez.
+
+Les Contrats
+Donnent accès à des interfaces extraites des composants, pour être compatible avec Symfony quand on écrit un projet en dehors du framework.
+
+Les Bridges
+Apportent une couche de compatibilité entre une librairie externe à l’écosystème Symfony, et les composants de Symfony (pensez à l’adaptateur secteur qui vous permet de brancher votre chargeur sur le réseau électrique d’un pays étranger).
+
+Les Bundles
+Des assemblages de plusieurs composants, auxquels on fournit une configuration et une intégration communes (exemple : le SecurityBundle rassemble tous les composants ayant trait à la sécurité de vos applications).
+
+Composer Command-line installation
+.\php.exe -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+.\php.exe -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+php composer-setup.php
+.\php.exe -r "unlink('composer-setup.php');"
+
