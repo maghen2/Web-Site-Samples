@@ -21,3 +21,8 @@ Composer Command-line installation
 php composer-setup.php
 .\php.exe -r "unlink('composer-setup.php');"
 
+https://symfony.com/download
+./symfony new --webapp my_project
+./symfony serve -d
+./symfony.exe server:ca:install
+
