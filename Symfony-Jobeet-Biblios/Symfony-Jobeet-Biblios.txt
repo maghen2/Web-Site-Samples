@@ -30,4 +30,4 @@ symfony server:ca:install
 symfony console list make
 symfony console make:controller Main
 symfony console importmap:require bootstrap
-
+import './vendor/bootstrap/dist/css/bootstrap.min.css';
