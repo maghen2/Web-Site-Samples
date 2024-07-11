@@ -28,5 +28,6 @@ symfony new --webapp my_project
 symfony serve -d
 symfony server:ca:install
 symfony console list make
-symfony console make:controller Awesome
+symfony console make:controller Main
+symfony console importmap:require bootstrap
 
